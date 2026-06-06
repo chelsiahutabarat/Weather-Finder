@@ -13,14 +13,18 @@ Fitur Level 1
 •	Error State
 •	Success State
 •	Mapping Weather Code (WMO)
+
 Fitur Level 2 yang Dipilih
 1. Arah dan Kecepatan Angin
+   
 •	Menampilkan kecepatan angin (windspeed)
 •	Mengubah wind direction menjadi arah mata angin (U, TL, T, TG, S, BD, B, BL)
-2. Indikator Siang/Malam
+3. Indikator Siang/Malam
+
 •	Menggunakan field is_day dari Open-Meteo
 •	Menampilkan indikator ☀️ Siang atau 🌙 Malam
-3. Riwayat Pencarian
+4. Riwayat Pencarian
+
 •	Menyimpan 5 kota terakhir yang dicari
 •	Kota dapat dipilih kembali dengan sekali klik
 
