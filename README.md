@@ -4,14 +4,23 @@ Weather Finder adalah aplikasi mobile berbasis React Native dan Expo yang diguna
 Fitur Level 1
 
 •	Controlled TextInput (value dan onChangeText)
+
 •	Debounce 500ms menggunakan setTimeout dan clearTimeout
+
 •	useEffect dengan dependency array
+
 •	Fetch data Geocoding API dan Forecast API Open-Meteo
+
 •	AbortController untuk membatalkan request lama
+
 •	Empty State
+
 •	Loading State
+
 •	Error State
+
 •	Success State
+
 •	Mapping Weather Code (WMO)
 
 Fitur Level 2 yang Dipilih
@@ -20,12 +29,12 @@ Fitur Level 2 yang Dipilih
 •	Menampilkan kecepatan angin (windspeed)
 •	Mengubah wind direction menjadi arah mata angin (U, TL, T, TG, S, BD, B, BL)
 
-3. Indikator Siang/Malam
+2. Indikator Siang/Malam
 
 •	Menggunakan field is_day dari Open-Meteo
 •	Menampilkan indikator ☀️ Siang atau 🌙 Malam
 
-4. Riwayat Pencarian
+3. Riwayat Pencarian
 
 •	Menyimpan 5 kota terakhir yang dicari
 •	Kota dapat dipilih kembali dengan sekali klik
