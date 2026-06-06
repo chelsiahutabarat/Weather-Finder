@@ -23,6 +23,7 @@ Fitur Level 1
 
 •	Mapping Weather Code (WMO)
 
+
 Fitur Level 2 yang Dipilih
 1. Arah dan Kecepatan Angin
    
@@ -41,10 +42,13 @@ Fitur Level 2 yang Dipilih
 
 Cara Menjalankan Aplikasi
 1.	Clone repository
+
 2.	Install dependency
 npm install
+
 3.	Jalankan aplikasi
 npx expo start --tunnel
+
 4.	Scan QR Code menggunakan aplikasi Expo Go
 Tech Stack
 •	React Native
