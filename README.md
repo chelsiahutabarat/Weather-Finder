@@ -1,6 +1,8 @@
 Deskripsi Aplikasi
 Weather Finder adalah aplikasi mobile berbasis React Native dan Expo yang digunakan untuk mencari informasi cuaca berdasarkan nama kota. Aplikasi menggunakan Open-Meteo API (tanpa API key) untuk mengambil data lokasi dan cuaca secara real-time.
+
 Fitur Level 1
+
 •	Controlled TextInput (value dan onChangeText)
 •	Debounce 500ms menggunakan setTimeout dan clearTimeout
 •	useEffect dengan dependency array
